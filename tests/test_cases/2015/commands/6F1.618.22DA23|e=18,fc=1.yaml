@@ -1,0 +1,22 @@
+command_id: 6F1.618.22DA23|e=18,fc=1
+test_cases:
+- expected_values:
+    SERIES6GC_ODO_LOWRES: 194232
+  response: |-
+    618F1100762DA230000
+    618F1215ED7FFFFFFFF
+- expected_values:
+    SERIES6GC_ODO_LOWRES: 194240
+  response: |-
+    618F1100762DA230000
+    618F1215ED8FFFFFFFF
+- expected_values:
+    SERIES6GC_ODO_LOWRES: 194256
+  response: |-
+    618F1100762DA230000
+    618F1215EDAFFFFFFFF
+- expected_values:
+    SERIES6GC_ODO_LOWRES: 194264
+  response: |-
+    618F1100762DA230000
+    618F1215EDBFFFFFFFF
