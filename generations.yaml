@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_6_Series_(F06)"
+
+generations:
+  - name: "F06"
+    start_year: 2012
+    end_year: 2018
+    description: "The four-door 6 Series on the F10 5 Series platform."
