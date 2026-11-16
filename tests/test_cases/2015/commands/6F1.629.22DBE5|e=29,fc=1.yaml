@@ -1,0 +1,8 @@
+command_id: 6F1.629.22DBE5|e=29,fc=1
+test_cases:
+- expected_values:
+    SERIES6GC_BRAKE_P: -0.6
+  response: |-
+    629F1100F62DBE5FFFA
+    629F1210000FFFE0000
+    629F122FFFE0000FFFF
